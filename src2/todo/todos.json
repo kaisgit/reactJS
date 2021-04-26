@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "finishing writing hooks chapter"
+    },
+    {
+      "id": 2,
+      "text": "play with kids"
+    },
+    {
+      "id": 3,
+      "text": "fetch dog"
+    },
+    {
+      "id": 4,
+      "text": "read harry porter"
+    },
+    {
+      "id": 5,
+      "text": "learn react"
+    },
+    {
+      "id": "5bd71b9f-4193-4444-9c1a-175290b0314b",
+      "text": "play guitar"
+    }
+  ]
+}

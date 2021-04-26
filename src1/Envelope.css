@@ -1,0 +1,13 @@
+.box {
+   border : 1px solid #ccc;
+   width : 600px;
+   min-height : 200px;
+   padding : 10px;
+   font-family : "Helvetica", arial, sans-serif;
+   font-size : 14px;
+   line-height : 18px;
+}
+.to {
+   margin-top: 50px;
+   margin-left: 200px;
+}
